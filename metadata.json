@@ -1,0 +1,5 @@
+{
+  "name": "TabSlayer",
+  "description": "A minimalist, low-key dark mode link manager that uses Gemini AI to describe, tag, and intelligently retrieve your saved URLs.",
+  "requestFramePermissions": []
+}
